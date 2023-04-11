@@ -12,12 +12,26 @@ To develop a Django application to store and retrieve data from a database using
 ## DESIGN STEPS
 
 ### STEP 1:
+Clone the git repository from github
 
 ### STEP 2:
+Create an admin interface for Django
 
 ### STEP 3:
+Create an app and edit the settings.py
 
-Write your own steps
+### STEP 4:
+Makemigrations and migrate the changes 
+
+### STEP 5:
+Create admin user and write python code for admin and models
+
+### STEP 6:
+Make all the migrations to 'myapp'
+
+### STEP 7:
+Create an employee table to fit 5 fields using runserver command
+
 
 ## PROGRAM
 ```python
