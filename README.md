@@ -53,13 +53,10 @@ class EmployeeAdmin(admin.ModelAdmin):
 ```
 
 
-
-
-Include your code here
-
 ## OUTPUT
+![orm out](https://user-images.githubusercontent.com/113975318/231060267-6cd13d8b-1e5c-4eb0-944a-12d18e96171d.png)
+![orm er ](https://user-images.githubusercontent.com/113975318/231060286-414cdf21-6b9a-4467-a21e-fb7a4ed9480e.png)
 
-Include the screenshot of your admin page.
 
 
 ## RESULT
