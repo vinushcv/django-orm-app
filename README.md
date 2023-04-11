@@ -60,3 +60,4 @@ class EmployeeAdmin(admin.ModelAdmin):
 
 
 ## RESULT
+The program for creating an employee database using ORM is executed successfully
